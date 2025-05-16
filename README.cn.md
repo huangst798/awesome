@@ -1,6 +1,6 @@
 # AWESOME 列表
 
-## 编程语言 AWESOME 列表
+## 💻 编程语言 AWESOME 列表
 
 | 语言                               | README                                                        | 总数   |
 | :----------------------------------- | :------------------------------------------------------------ | :----- |
@@ -11,7 +11,7 @@
 | [Java](https://a.x-cmd.com/java)     | [README](https://github.com/edwinjhlee/awesome/lang/java)     | 100    |
 | [Kotlin](https://a.x-cmd.com/kotlin) | [README](https://github.com/edwinjhlee/awesome/lang/kotlin)   | 100    |
 
-## 贡献代码前必读
+## 📖 贡献代码前必读
 
 欢迎贡献你认为优秀的开源库！ 你只需要提交所推荐的库的元信息文件，这个文件以 YML 格式组织。
 
@@ -42,7 +42,7 @@ desc-zh:  # 可选：描述的中文翻译。 如果您无法提供，请留空�
 
 即使合并之后，你仍可以就该项内容发 ISSUE 或者 Discussion 进行讨论。
 
-## 贡献方式
+## 🤝 贡献方式
 
 我们推荐以下三种贡献方式：
 
@@ -140,12 +140,15 @@ x ws gen go
 如果您不确定如何创建 pull request，您可以通过创建 issue 来建议新的库。
 虽然这是最简单的方法，但强烈建议通过 pull request 贡献。请参考上面的步骤和演示。
 
-另外, 如果你在 PR 过程中遇到问题, 可以加入 x-cmd 的用户群寻求协助。
+另外, 如果你在 PR 过程中遇到问题, 可以加入 x-cmd 的用户群寻求协助:
 
-[TODO: add 微信群和TG群的照片]
+- 微信群
+
+![wechat](./assets/wechat.png)
+
+- ![telegram](./assets/telegram.png) [Telegram](https://t.me/x_cmd)
 
 **发起 Issue 步骤**
 
 1.  在此处创建一个新的 issue [here](https://github.com/edwinjhlee/awsome/issues) 并选择 "[new library]" 模板。
 2.  填写包含存储库名称和简短描述的表单。
-
