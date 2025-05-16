@@ -144,9 +144,9 @@ x ws gen go
 
 - 微信群
 
-![wechat](./assets/wechat.png)
+![wechat](./assets/wechat1.png)
 
-- ![telegram](./assets/telegram1.png) **[Telegram](https://t.me/x_cmd)**
+- ![telegram](./assets/telegram.png) **[Telegram](https://t.me/x_cmd)**
 
 **发起 Issue 步骤**
 
